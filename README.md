@@ -56,4 +56,9 @@ What i have done:
   i also get an email from git stating that the run
   failed so that i can performe the fixes and push again.
   
+  SOURCES:
+  Tutorial i used to understand how to implement
+  contineous integration in python: 
+  - https://github.com/alexanderdamiani/test_repo_pylinter_v1
+  - https://github.com/alexanderdamiani/test_repo_pylinter_v2
   

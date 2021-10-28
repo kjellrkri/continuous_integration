@@ -14,7 +14,6 @@ def test_leap_year_divisible_by_400():
     assert is_leap_year(2000)
     assert is_leap_year(2400)
     assert is_leap_year(2800)
-    assert is_leap_year(401)
 
 
 # not leap year tests

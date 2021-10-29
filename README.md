@@ -58,7 +58,8 @@ What i have done:
   
   SOURCES:
   Tutorial i used to understand how to implement
-  contineous integration in python: 
+  contineous integration in python:
+  - https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
   - https://github.com/alexanderdamiani/test_repo_pylinter_v1
   - https://github.com/alexanderdamiani/test_repo_pylinter_v2
   
